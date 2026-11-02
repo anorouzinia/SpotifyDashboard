@@ -1,0 +1,31 @@
+track_id,vector_group,canonical_track_id,title,artist,split,decision
+45102,1,45102,Yellow Dust,Rolemusic,training,retain_canonical
+51785,1,45102,Yellow Dust,Rolemusic,training,remove_supported_duplicate
+57371,2,57371,March Of The Bodypumpers,Justice Yeldham,training,retain_canonical
+72149,2,57371,March Of The Bodypumpers,Justice Yeldham,training,remove_supported_duplicate
+74348,3,74348,Be Sweet,Marco Trovatello,training,retain_canonical
+86761,3,74348,Be Sweet,Marco Trovatello,training,remove_supported_duplicate
+93518,4,93518,Mantilla,Moon Veil,test,retain_unresolved
+93519,4,93519,Scorpio,Moon Veil,test,retain_unresolved
+93520,4,93520,Slow Moving,Moon Veil,test,retain_unresolved
+93521,4,93521,Ivory,Moon Veil,test,retain_unresolved
+93522,4,93522,Snake Charm,Moon Veil,test,retain_unresolved
+93523,4,93523,Up There,Moon Veil,test,retain_unresolved
+114212,5,114212,Old Fashioned Lullaby,Squire Tuck,test,retain_canonical
+114222,6,114222,Ukulele Blues,Squire Tuck,test,retain_canonical
+114223,7,114223,Ukulele Rising,Squire Tuck,test,retain_canonical
+114235,8,114235,Micro,Blue Dot Sessions,training,retain_canonical
+114236,9,114236,Master,Blue Dot Sessions,training,retain_canonical
+115290,7,114223,Squire Tuck - Ukulele Rising,Squire Tuck,test,remove_supported_duplicate
+115292,6,114222,Squire Tuck - Ukulele Blues,Squire Tuck,test,remove_supported_duplicate
+115294,5,114212,Squire Tuck - Old Fashioned Lullaby,Squire Tuck,test,remove_supported_duplicate
+120470,10,120470,Legend,SPCZ,training,retain_canonical
+125820,9,114236,Master,Blue Dot Sessions,training,remove_supported_duplicate
+125821,8,114235,Micro,Blue Dot Sessions,training,remove_supported_duplicate
+126316,11,126316,Humajataritee,Janneh,training,retain_unresolved
+126321,11,126321,Kiitos,Janneh,training,retain_unresolved
+133016,10,120470,Legend,SPCZ,training,remove_supported_duplicate
+144933,12,144933,Saturday,Maxwell Powers,training,retain_canonical
+144938,13,144938,Godspeed,Maxwell Powers,training,retain_canonical
+145702,12,144933,Saturday,Maxwell Powers,training,remove_supported_duplicate
+145707,13,144938,Godspeed,Maxwell Powers,training,remove_supported_duplicate

@@ -1,0 +1,4 @@
+split,tracks,mean_squared_reconstruction_error,retained_energy_fraction_about_training_mean
+training,6392,0.04985140337142346,0.9501485966285765
+validation,800,0.11086474277896004,0.9167637105541987
+test,797,0.12482293847771671,0.8907521450029116

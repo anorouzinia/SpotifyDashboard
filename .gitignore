@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Extract the original FMA archives locally; keep large source data out of Git.
+data/fma_small/
+data/fma_metadata/
+data/processed/

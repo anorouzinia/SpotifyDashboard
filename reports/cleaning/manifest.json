@@ -1,0 +1,34 @@
+{
+  "input_tracks": 8000,
+  "clean_tracks": 7989,
+  "supported_duplicates_removed": 11,
+  "unresolved_tracks_retained": 8,
+  "remaining_duplicate_vectors_beyond_first": 6,
+  "duplicate_vector_groups_crossing_splits": 0,
+  "constant_features_removed": [],
+  "clean_features": 518,
+  "fit_tracks": 6392,
+  "power_transformed_features": 129,
+  "training_skew_gt2_before": 153,
+  "training_skew_gt2_after": 38,
+  "correlation_features": 440,
+  "baseline_correlation_features": 440,
+  "pca_components": 197,
+  "baseline_pca_components": 205,
+  "pca_training_variance": 0.9501485966285768,
+  "config": {
+    "correlation_threshold": 0.95,
+    "pca_variance": 0.95,
+    "skew_threshold": 2,
+    "near_invariant_fraction": 0.99,
+    "fit_split": "training"
+  },
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "pyarrow": "26.0.0",
+    "joblib": "1.6.0"
+  }
+}
